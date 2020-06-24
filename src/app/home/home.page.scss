@@ -1,0 +1,21 @@
+.button{
+  background-color: black;
+  color: white;
+  padding: 2px 4px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border: 0;
+  background: none;
+  display: block;
+  margin: 20px auto;
+  width: 200px;
+  outline: none;
+  border-radius: 24px;  
+  transition-duration: 0.4s;
+}
+.bg-home
+{
+        --background: url('/assets/corona.png') no-repeat center center / cover;
+}

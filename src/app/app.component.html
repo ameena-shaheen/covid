@@ -1,0 +1,32 @@
+<ion-app>
+  <ion-menu side="start" menuId= "first" contentId="content1" >
+    <ion-header>
+      <ion-toolbar>
+        <ion-item>
+          <ion-label>
+            <b>
+              welcome
+            </b>
+          </ion-label>
+        </ion-item>
+        
+      </ion-toolbar>
+    </ion-header>
+    <ion-content>
+
+    </ion-content>
+    <ion-list *ngFor="let page of pages">
+      <ion-menu-toggle auto-hide="true" style="width: 35px; height: 5px; margin: 6px 0;"  >
+        <ion-item (click)="Goto(page)" style="border: 1px; list-style-type: none; font-size: 18px; display: block; padding: 40px 12px; box-sizing: border-box; margin-top: -1px;">
+          <ion-icon [name]="page.icon" slot="start"></ion-icon>
+            <ion-label>
+              {{page.pagename}}
+            </ion-label>
+        </ion-item>
+      </ion-menu-toggle>
+    </ion-list>
+
+   
+  </ion-menu>
+    <ion-router-outlet id="content1"></ion-router-outlet>
+  </ion-app>
