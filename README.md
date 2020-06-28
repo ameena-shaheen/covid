@@ -20,6 +20,17 @@ S.No	 Page	Body
 	Active cases
 	Total Deaths
 	Recovered cases
+UI components:
+![image](https://user-images.githubusercontent.com/65466888/85950348-d3928e00-b979-11ea-9892-abda8be45786.png)
+![image](https://user-images.githubusercontent.com/65466888/85950374-fa50c480-b979-11ea-975c-2e7c8627b249.png)
+![image](https://user-images.githubusercontent.com/65466888/85950380-03da2c80-b97a-11ea-8afd-a4984bb126fb.png)
+![image](https://user-images.githubusercontent.com/65466888/85950382-076db380-b97a-11ea-9fed-695d6d85a8c6.png)
+![image](https://user-images.githubusercontent.com/65466888/85950386-0c326780-b97a-11ea-9c63-f0567cdf3228.png)
+![image](https://user-images.githubusercontent.com/65466888/85950391-10f71b80-b97a-11ea-99e1-b509e8e2dc50.png)
+![image](https://user-images.githubusercontent.com/65466888/85950398-16546600-b97a-11ea-8937-4841ce0952f2.png)
+![image](https://user-images.githubusercontent.com/65466888/85950402-194f5680-b97a-11ea-9d32-b5477ed3fe41.png)
+![image](https://user-images.githubusercontent.com/65466888/85950406-1d7b7400-b97a-11ea-8877-8d8f6d02be6a.png)
+![image](https://user-images.githubusercontent.com/65466888/85950409-20766480-b97a-11ea-9038-a58508078003.png)
 
 Screen Flow:
  login ----------------------> master page(Country list) --------> detail page(country specific list)
