@@ -43,3 +43,27 @@ PAGE 4:
 Front end - Page :  On clicking on the covid-19 country page, it should display the details of Covid patients for the selected country
 Server :
 REST APi - call John hopkins University Rest APi.
+
+
+Github repository link: https://github.com/ameena-shaheen/covid.git
+
+INFERENCE FROM THE INTERNSHIP:
+ 	Got a brief idea about app development.
+ 	 Learnt how to use HTML and CSS styling for developing an attractive UI.
+ 	Got a clear cut idea on ionic ,angular and node-js framework.
+ 	Learnt how to call rest-api  on the server side by using json on typescript.
+ 	Got a few information on integrating firebase and mongo database.
+ 	Learnt how to create a repository and circulate files between the team and the lead.
+ 	Ultimately learnt how to work as a team and develop a complete project, within the given time framework.
+ 	Overall the internship was an eye-opener for us to learn about real-time software development and IT industry.
+
+
+      
+
+CREDITS:
+            We would like to extend our sincere gratitude to Mr .Jey ,Mr .Giri, Mrs. Vasanthi, Mrs.Vishwalakshmi for providing us the right technical expertise and guidance during this entire internship. We are looking forward for more internships like this.
+
+
+  
+
+
